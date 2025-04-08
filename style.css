@@ -1,0 +1,40 @@
+body {
+font-family: 'Segoe UI', sans-serif;
+background: #f9f9f9;
+padding: 20px;
+}
+.container {
+max-width: 600px;
+margin: auto;
+background: white;
+padding: 20px;
+border-radius: 12px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h2 {
+color: #4B0082;
+}
+input, select, button {
+padding: 10px;
+margin: 8px 0;
+width: 100%;
+border: 1px solid #ccc;
+border-radius: 6px;
+}
+button {
+background: #4B0082;
+color: white;
+font-weight: bold;
+cursor: pointer;
+}
+.success {
+color: green;
+}
+.error {
+color: red;
+}
+pre {
+background: #eee;
+padding: 10px;
+overflow: auto;
+}
