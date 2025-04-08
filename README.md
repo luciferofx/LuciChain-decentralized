@@ -83,5 +83,5 @@ Here’s how LuciChain looks in action:
 
 1. 📥 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/LuciChain.git
+git clone https://github.com/luciferofx/LuciChain-decentralized.git
 cd LuciChain
