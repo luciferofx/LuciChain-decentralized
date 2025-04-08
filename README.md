@@ -69,8 +69,8 @@ Here’s how LuciChain looks in action:
 ### 💼 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 💸 Wallet Transfer
-![Transfer](screenshots/transfer.png)
+### 💸 Wallet History
+![Transfer](screenshots/history.png)
 
 ### 📊 QR Wallets
 ![QR Wallets](screenshots/wallets.png)
