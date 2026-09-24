@@ -4,22 +4,6 @@
 
 ---
 
-## 🙏 Support the Project
-
-Love LuciChain? Help me keep it alive & growing! Your support means everything. ❤️
-
-> 🟢 **UPI**: `gamobhai2@ybl`  
-> 🧾 **Binance UID**: `783008968`
-
-### 💰 Crypto Donations
-
-| Coin | Address |
-|------|---------|
-| **USDT (TRC-20)** | `TXKPBgR9d5xq5KpAyd2maPVQuEEDZ9DgiQ` |
-| **BTC** | `1JeBUw4bjL9tuKrHwKKk4dx3mPy1jxys8j` |
-| **LTC** | `LPUR2CE5SfArfYRJWkdtqhGz3t17Rijz2d` |
-
----
 
 ## 🧠 Upcoming Features
 
