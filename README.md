@@ -62,6 +62,31 @@ Here’s how LuciChain looks in action:
 > You can add more screenshots anytime to this section.
 
 ---
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/luciferofx">
+        <img src="https://github.com/luciferofx.png" width="100px;" alt="Luciferofx"/>
+        <br />
+        <sub><b>Luciferofx</b></sub>
+      </a>
+      <br />
+      <sub>👨‍💻 Author & Maintainer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ayush-jsx">
+        <img src="https://github.com/ayush-jsx.png" width="100px;" alt="Ayush"/>
+        <br />
+        <sub><b>Ayush</b></sub>
+      </a>
+      <br />
+      <sub>🤝 Contributor</sub>
+    </td>
+  </tr>
+</table>
+---
 
 ## ⚙️ How to Run Locally
 
